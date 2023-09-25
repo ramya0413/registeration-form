@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:rgb(125, 29, 74);
+}
+   
+
+body{
+    background-color: beige;
+    padding:0;
+}
+form{
+    margin: 50px;
+}
+/*span{
+    background-color: palevioletred;
+}*/
+textarea{
+    background-color: bisque;
+}
+input[type=button]{
+
+
+    background-color: #e79aca;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+ 
